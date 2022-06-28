@@ -8,7 +8,7 @@ Add the following dependency to your `pubspec.yaml`:
 
 ```yaml
 dev_dependencies:
-  dapublock: ^1.0.0
+  dapublock: ^1.0.1
 ```
 
 #### Run the updater

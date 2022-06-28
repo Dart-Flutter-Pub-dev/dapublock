@@ -1,6 +1,6 @@
 name: dapublock
 description: A Dart package to automatically update your pubspec dependencies in your project with the locked dependencies.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/mauriciotogneri/dapublock
 
 environment:
