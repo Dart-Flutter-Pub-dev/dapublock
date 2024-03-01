@@ -8,19 +8,19 @@ Add the following dependency to your `pubspec.yaml`:
 
 ```yaml
 dev_dependencies:
-  dapublock: ^1.0.1
+  dapublock: ^1.1.0
 ```
 
 #### Run the updater
 
 ```bash
 flutter pub upgrade
-flutter pub pub run dapublock:dapublock.dart PUBSPEC_FOLDER
+flutter pub run dapublock:dapublock.dart PUBSPEC_FOLDER
 ```
 
 For example:
 
 ```bash
 flutter pub upgrade
-flutter pub pub run dapublock:dapublock.dart .
+flutter pub run dapublock:dapublock.dart .
 ```
